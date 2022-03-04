@@ -35,7 +35,7 @@ Click it and do the following commands:
 csrutil disable
 ```
 ```
-mount -uw /volumes/Arquivos
+sudo mount -uw /
 ```
 ```
 /volumes/Arquivos/macosdebloater-1.1
