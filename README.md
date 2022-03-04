@@ -31,8 +31,9 @@ Find Terminal.
 
 Click it and do the following commands:
 
+```
 csrutil disable
-
+```
 ```
 mount -uw /volumes/Arquivos
 ```
