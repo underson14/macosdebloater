@@ -32,16 +32,16 @@ Find Terminal.
 Click it and do the following commands:
 
 ```
-mount -uw /Volumes/Macintosh\ HD/
+mount -uw /volumes/Arquivos
 ```
 ```
-cd Downloads/macosdebloater-scripts
+/volumes/Arquivos/macosdebloater-1.1
 ```
 ```
-chmod 777 *-macos-versions-deloat
+chmod 777 deloat
 ```
 ```
-./*-macos-versions-deloat
+./deloat
 ```
 
 * = New or Old
